@@ -46,16 +46,18 @@ Ranking analysis
 I used CTEs and DENSE_RANK to rank countries by total layoffs for each year. This shows which countries were most impacted in different periods.
 
 ## Project Overview
-This project analyzes a global layoffs dataset using SQL. I explored patterns in layoffs across companies, industries, locations, countries, and time. You wrote queries to answer real questions like which companies laid off the most staff, which industries were most affected, how layoffs changed over time, and which countries ranked highest each year.
+This project analyzes a global layoffs dataset using SQL. I explored patterns in layoffs across companies, industries, locations, countries, and time. I wrote queries to answer real questions like which companies laid off the most staff, which industries were most affected, how layoffs changed over time, and which countries ranked highest each year.
 The project shows strong use of aggregation, grouping, date functions, CTEs, and window functions for real data analysis.
 
 I demonstrated skills in:
+```
 • Writing structured SQL queries
 • Using GROUP BY and ORDER BY for summaries
 • Using date functions to analyze trends
 • Using CTEs for cleaner logic
 • Using window functions for rolling totals and rankings
 • Writing readable, well-commented SQL scripts
+```
 
 ## Tools Used
 ```
